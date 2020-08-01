@@ -35,7 +35,7 @@ The technologies I will use here are:
 
 ### Channel domination
 In the first visualization we created the first pie chart which holds info about the dominant distribution channel.
-![alt text](https://raw.githubusercontent.com/WorldWideWest/wholeSale-Analysis/master/visualizations/CDS.png)
+![alt text](https://raw.githubusercontent.com/WorldWideWest/wholeSale-Analysis/master/visualizations/CDS.png?token=APJTIRH7VQJTAADZHNSIN2S7EVUAE)
 
 In this visualization we can clearly see that the first distribution channel is the dominant channel.
 
