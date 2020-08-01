@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Analysis](#analysis)
 
 ## General info
 
@@ -29,4 +30,17 @@ The technologies I will use here are:
 * Jupyter Notebook,
 * Visual Studio Code,
 * Git
+
+## Analysis
+
+### Channel domination
+In the first visualization we created the first pie chart which holds info about the dominant distribution channel.
+![alt text](https://raw.githubusercontent.com/WorldWideWest/wholeSale-Analysis/master/visualizations/CDS.png)
+
+In this visualization we can clearly see that the first distribution channel is the dominant channel.
+
+### Region domination
+
+In the following chart we will see the domination of the Region per distribution channels.
+
 
